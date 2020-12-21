@@ -1,0 +1,22 @@
+ 	canvas { 
+ 		display:inline;
+ 		background-color:black;
+ 	}
+ 	
+ 	.sco{
+ 		background-color:yellow;
+ 		font-size:20px;
+ 		width:50%;
+ 	}	
+ 	.end { 
+ 		background-color:black;
+ 		font-size:40px;
+ 		width:900px;
+ 		height:600px;
+ 		display:none;
+ 		color:white;
+ 	}	 	
+ 	.button {
+ 		font-size:30px;
+ 		width:50%;
+ 	}
